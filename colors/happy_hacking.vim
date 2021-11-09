@@ -34,7 +34,7 @@ let colors_name = "happy_hacking"
 " This section defines all the colors to use when running Vim as a GUI (Gvim,
 " Macvim, etc). These colors are *not* used when Vim is run in a terminal.
 
-let s:white    = "#F3F2CC"
+let s:white    = "#FFD7AF"
 let s:black1   = "#000000"
 let s:black2   = "#202020"
 let s:yellow   = "#FAD566"
