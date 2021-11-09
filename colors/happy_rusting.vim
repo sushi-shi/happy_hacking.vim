@@ -294,8 +294,8 @@ hi! link rubyMacro            Identifier
 
 " Rust
 hi! link rustFuncCall        Identifier
-hi! link rustCommentBlockDoc Comment
-hi! link rustCommentLineDoc  Comment
+hi! link rustCommentBlockDoc Regexp
+hi! link rustCommentLineDoc  Regexp
 
 " SASS
 hi! link sassClass   cssClassName
