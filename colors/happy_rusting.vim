@@ -26,7 +26,7 @@ if exists("syntax_on")
   syntax reset
 end
 
-let colors_name = "happy_hacking"
+let colors_name = "happy_rusting"
 
 " ============================================================================
 " GUI Colors
@@ -293,7 +293,7 @@ hi! link rubyAttribute        Identifier
 hi! link rubyMacro            Identifier
 
 " Rust
-hi! link rustFuncCall        Identifier
+hi! link rustFuncCall        Regexp
 hi! link rustCommentBlockDoc Regexp
 hi! link rustCommentLineDoc  Regexp
 
